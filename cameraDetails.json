@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "name": "Nikon Z5",
+    "price": 1800,
+    "description": "A full-frame mirrorless camera perfect for photographers and videographers.",
+    "image": "../assets/z5.png"
+  },
+  {
+    "id": 2,
+    "name": "Canon EOS 30D",
+    "price": 1600,
+    "description": "A classic DSLR with excellent performance and reliability.",
+    "image": "../assets/canon.png"
+  },
+  {
+    "id": 3,
+    "name": "Nikon D7200",
+    "price": 1200,
+    "description": "An advanced DSLR for enthusiasts with superior image quality.",
+    "image": "../assets/nikon_d7200.png"
+  },
+  {
+    "id": 4,
+    "name": "Sony 200mm Zoom",
+    "price": 600,
+    "description": "A high-quality zoom lens for Sony cameras.",
+    "image": "../assets/sony_200mm.png"
+  }
+]

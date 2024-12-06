@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1033123407740",
+    "project_id": "dslrapp-9e501",
+    "storage_bucket": "dslrapp-9e501.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1033123407740:android:1d3d601b99351bbd3566f9",
+        "android_client_info": {
+          "package_name": "com.dslrshop"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNPo52PJ0Ig1DLiGqyG_3bYTm2SaxPOpc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
